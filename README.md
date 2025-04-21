@@ -14,3 +14,6 @@ if necessary. Now, run
 ```
 
 Press spacebar to start and stop the timer. Your times will be saved to ~/time.txt
+<h1>Examples</h1>
+![Screenshot from 2025-04-20 18-56-57](https://github.com/user-attachments/assets/cfc71899-d8e4-4189-b050-bd74dbcacbf0)
+![Screenshot from 2025-04-20 18-56-57](https://github.com/user-attachments/assets/f7ed08fa-a98e-47da-90ef-c97a21bce4d1)
